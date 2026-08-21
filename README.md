@@ -5,7 +5,7 @@ Advanced camera stabilization system with real-time face tracking capabilities u
 ## Description
 
 A comprehensive gimbal control system combining hardware stabilization with intelligent face detection and tracking. The system automatically follows detected faces while maintaining smooth, stable video output.
-Copie de 1702676008350.png 
+![alt text](https://github.com/otmaniamine/Gimbal-camera-stabilizer-and-face-tracker/blob/main/Gimbal_shape.png)
 ## Features
 
 - Real-time face detection and tracking
