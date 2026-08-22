@@ -5,7 +5,7 @@ Advanced camera stabilization system with real-time face tracking capabilities u
 ## Description
 
 A comprehensive gimbal control system combining hardware stabilization with intelligent face detection and tracking. The system automatically follows detected faces while maintaining smooth, stable video output.
-![alt text](https://github.com/otmaniamine/Gimbal-camera-stabilizer-and-face-tracker/blob/main/Gimbal_shape.png)
+![alt text](https://github.com/otmaniamine/Gimbal-camera-stabilizer-and-face-tracker/blob/main/figures/Stabilization%20test.jpeg)
 ## Features
 
 - Real-time face detection and tracking
@@ -23,7 +23,7 @@ A comprehensive gimbal control system combining hardware stabilization with inte
 - Hardware Control: Arduino nano 
 - Video Processing: FFmpeg
 - Communication: Serial/USB protocols
-
+![alt text](https://github.com/otmaniamine/Gimbal-camera-stabilizer-and-face-tracker/blob/main/figures/Face%20tracking%20test%20.jpeg )
 ## Requirements
 - Camera module (USB/CSI)
 - 3-axis gimbal mechanism
