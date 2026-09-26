@@ -67,6 +67,8 @@ Gimbal-camera-stabilizer-and-face-tracker/
 - Mobile app interface
 - AI-powered predictive stabilization
 
+ ![alt text](https://github.com/otmaniamine/Gimbal-camera-stabilizer-and-face-tracker/blob/main/figures/presentation%202.png)
+
 ## License
 
 MIT License
